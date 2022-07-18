@@ -4,7 +4,7 @@ My name is Peterson. I'm a Front End Designer!
 
 Welcome to my Github page
 
-### Skils
+### Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" 
